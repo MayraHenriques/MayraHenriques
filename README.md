@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MayraHenriques
 - 👀 I’m interested in job
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning Outsystems, SQL, Python and Java
+- 💞️ I’m looking to collaborate on Outsystems projects
 - 📫 How to reach me e-mail: guiafacilvgp@gmail.com or mayrahenriques@hotmail.com
 
 <!---
